@@ -1,0 +1,10 @@
+{
+  "app_title": "Localized App",
+  "api_data": "API Data",
+  "user": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address"
+  }
+}

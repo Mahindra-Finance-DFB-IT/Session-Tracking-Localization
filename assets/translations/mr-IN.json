@@ -1,0 +1,10 @@
+{
+  "app_title": "माझा अ‍ॅप",
+  "api_data": "API डेटा",
+  "user": {
+    "name": "नाव",
+    "email": "ईमेल",
+    "phone": "फोन",
+    "address": "पत्ता"
+  }
+}
