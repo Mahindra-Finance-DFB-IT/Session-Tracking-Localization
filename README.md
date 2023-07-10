@@ -35,7 +35,7 @@ Inside the "session_tracker" folder, you will find a widget called `FocusWrapper
 2. Wrap the desired widget with the `FocusWrapper` widget and handle the `sessionDuration` callback:
     ```dart
     FocusWrapper(
-      child: // Your widget here,
+      childWidget: // Your widget here,
       sessionDuration: (Duration duration) {
         // Handle the session duration here.
       },
