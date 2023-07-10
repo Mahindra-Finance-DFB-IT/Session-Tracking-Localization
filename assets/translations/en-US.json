@@ -1,10 +1,11 @@
 {
-  "app_title": "Localized App",
-  "api_data": "API Data",
+  "appTitle": "Localized App",
+  "apiData": "this is api data, for now loading from assets",
   "user": {
-    "name": "Name",
-    "email": "Email",
-    "phone": "Phone",
-    "address": "Address"
+    "name": "raviraj",
+    "email": "cordovaravi@gmail.com",
+    "phone": "8805499885",
+    "address": "Vikhroli, West, Mumbai",
+    "department":"information techonology"
   }
 }

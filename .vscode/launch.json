@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         
         {
             "name": "globalization_ex",
@@ -21,6 +22,12 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
+        },
+        {
+            "name": "session app",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/session_tracker/main.dart"
         }
     ]
 }
