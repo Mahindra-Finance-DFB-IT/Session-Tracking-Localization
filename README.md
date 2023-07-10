@@ -9,7 +9,7 @@ To use the `translateJson` extension, you will need to install the `google-mlkit
 ### Usage
 1. Import the necessary dependencies and the `translateJson` extension:
     ```dart
-    google_mlkit_translation:;
+    google_mlkit_translation:
     ```
 
 2. Use the `translateJson` extension on a `Map` object:
